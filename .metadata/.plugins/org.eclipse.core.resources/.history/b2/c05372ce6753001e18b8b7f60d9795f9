@@ -138,9 +138,6 @@ public class Caja extends JFrame implements ActionListener {
 		txtS.setText("Volumen : " + decimalFormat(vol) + "\n");
 			imprimir("Area    : " + decimalFormat(area));
 		
-			/**
-			 * HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			 */
 	}
 	String decimalFormat(double p) {
 		return String.format("%.2f", p);
