@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\Oscar\ESTUDIO\PROGRAMACION\Cursos - Cibertec\Introduccion a la algoritmia\IA_Semana_04_Lab\.metadata\.plugins\org.eclipse.jdt.core
+2866377609.index
+263265558.index
+1865797976.index
+567361358.index
+1590841840.index
+2457825379.index
